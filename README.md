@@ -19,3 +19,14 @@ A fast, zero-bloat Windows desktop utility that combines real-time hardware moni
 
 ---
 *Note: Because this is an independent open-source `.exe` packaged with PyInstaller, Windows SmartScreen may show an "Unknown Publisher" warning on first run. Click **More info → Run anyway** to proceed.*
+
+---
+
+## ☕ Support the Project
+
+If you find this tool useful and want to support future updates and new free Windows utilities, feel free to buy me a coffee via PayPal:
+
+[![Donate with PayPal](https://shields.io)](https://www.paypal.me/danielspartanboss)
+
+👉 **[paypal.me/danielspartanboss](https://www.paypal.me/danielspartanboss)**
+
