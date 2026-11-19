@@ -26,7 +26,5 @@ A fast, zero-bloat Windows desktop utility that combines real-time hardware moni
 
 If you find this tool useful and want to support future updates and new free Windows utilities, feel free to buy me a coffee via PayPal:
 
-[![Donate with PayPal](https://shields.io)](https://www.paypal.me/danielspartanboss)
-
 👉 **[paypal.me/danielspartanboss](https://www.paypal.me/danielspartanboss)**
 
